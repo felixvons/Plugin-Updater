@@ -1,0 +1,22 @@
+[general]
+# UTF-8 and CR LF important!
+
+# name: name in QGIS repository window
+name=PluginRepoUrlChanged
+
+# plugin icon in QGIS repository window
+icon=
+
+# name_menu_bar: name in QGIS' top menu bar
+name_menu_bar=PluginRepoUrlChanged
+
+# qgisMinimumVersion: minimum compatible QGIS version number
+qgisMinimumVersion=3.10
+
+# some default plugin information
+description=Automatic Plugin Updater
+version=1.0
+author=Felix von Studsinske
+email=felix.vons@gmail.com
+
+about=Automatic Plugin Updater
